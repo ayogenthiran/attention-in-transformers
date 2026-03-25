@@ -15,9 +15,10 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# IDE
+# IDE / local tooling
 .idea/
 .vscode/
+.codacy/
 *.swp
 *.swo
 
